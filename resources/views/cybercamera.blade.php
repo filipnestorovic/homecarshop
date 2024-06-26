@@ -12,7 +12,7 @@
 {{--    <link rel="stylesheet" href="{{ asset('/') }}dailysharkFiles/pixipcamera/style.css"/>--}}
 </head>
 <body>
-<h1>Home Car Shop</h1>
+<h1>Home Car Shop Test</h1>
 </body>
 {{--<body>--}}
 {{--<header class="header">--}}
