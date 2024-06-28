@@ -23,6 +23,8 @@
                 let validationResult = validatePhoneNumber(phone);
                 let errorText = "Pogrešan format telefona";
 
+                validationResult = validationResult.trim();
+
                 if(validationResult === "1") {
                     $phone_input.removeClass('phoneErrorInput');
                     $('.phoneErrorText').hide();
@@ -70,6 +72,7 @@
                     _token: csrf_token
                 },
                 success:function(response){
+                    console.log(response);
                     returnResponse = response;
                 },
                 error: function (req, err) {
