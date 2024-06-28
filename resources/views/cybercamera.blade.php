@@ -8,7 +8,7 @@
         name="viewport"
         content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"
     />
-    <link rel="stylesheet" href="{{ asset('/') }}cybercamera/style.css"/>
+    <link rel="stylesheet" href="{{ asset('/') }}product_files/cybercamera/style.css"/>
 </head>
 <body>
 @if($errors->any())
@@ -25,7 +25,7 @@
             <div class="header__content">
                 <div class="header__right">
                     <div class="header__img">
-                        <img src="{{ asset('/') }}cybercamera/header-img.png" alt=""/>
+                        <img src="{{ asset('/') }}product_files/cybercamera/header-img.png" alt=""/>
                     </div>
                 </div>
                 <div class="header__left">
@@ -118,7 +118,7 @@
             <div class="promo__wrapper">
                 <div id="description" class="promo__row">
                     <div class="promo__img">
-                        <img src="{{ asset('/') }}cybercamera/1.jpg" alt="">
+                        <img src="{{ asset('/') }}product_files/cybercamera/1.jpg" alt="">
                     </div>
                     <div class="promo__text">
                         <p class="bold mb-10">Bežična mini nadzorna kamera omogućava odličnu kontrolu nad raznim
@@ -135,12 +135,12 @@
                             kutiji dolazi sa nosačem koji se lako postavlja.</p>
                     </div>
                     <div class="promo__img">
-                        <img src="{{ asset('/') }}cybercamera/2.jpg" alt="">
+                        <img src="{{ asset('/') }}product_files/cybercamera/2.jpg" alt="">
                     </div>
                 </div>
                 <div class="promo__row">
                     <div class="promo__img">
-                        <img src="{{ asset('/') }}cybercamera/3.jpg" alt="">
+                        <img src="{{ asset('/') }}product_files/cybercamera/3.jpg" alt="">
                     </div>
                     <div class="promo__text">
                         <p>Kameri se može pristupiti preko aplikacije sa bilo kod uređaja. Poseduje noćni režim
@@ -162,13 +162,13 @@
                     </div>
                     <div class="works__video">
                         <video width="100%" height="auto" autoplay="" loop="" muted="" playsinline="">
-                            <source src="{{ asset('/') }}cybercamera/001.mp4" type="video/mp4">
+                            <source src="{{ asset('/') }}product_files/cybercamera/001.mp4" type="video/mp4">
                         </video>
                     </div>
                 </div>
                 <div class="works__col">
                     <div class="works__img">
-                        <img src="{{ asset('/') }}cybercamera/4.jpg" alt="">
+                        <img src="{{ asset('/') }}product_files/cybercamera/4.jpg" alt="">
                     </div>
                     <div class="works__text">
                         <h2>Karakteristike:</h2>
@@ -186,13 +186,13 @@
                     </div>
                     <div class="works__slider slider">
                         <div class="slider__item">
-                            <img src="{{ asset('/') }}cybercamera/5.jpg" alt="">
+                            <img src="{{ asset('/') }}product_files/cybercamera/5.jpg" alt="">
                         </div>
                         <div class="slider__item">
-                            <img src="{{ asset('/') }}cybercamera/6.jpg" alt="">
+                            <img src="{{ asset('/') }}product_files/cybercamera/6.jpg" alt="">
                         </div>
                         <div class="slider__item">
-                            <img src="{{ asset('/') }}cybercamera/7.jpg" alt="">
+                            <img src="{{ asset('/') }}product_files/cybercamera/7.jpg" alt="">
                         </div>
                     </div>
                 </div>
@@ -211,11 +211,11 @@
                     <div class="reviews__block block">
                         <div class="block__header">
                             <div class="block__img">
-                                <img src="{{ asset('/') }}cybercamera/rev1.jpg" alt=""/>
+                                <img src="{{ asset('/') }}product_files/cybercamera/rev1.jpg" alt=""/>
                             </div>
                             <div class="block__text">
                                 <p class="bold">Zoran</p>
-                                <img src="{{ asset('/') }}cybercamera/stars.png" alt="">
+                                <img src="{{ asset('/') }}product_files/cybercamera/stars.png" alt="">
                             </div>
                         </div>
                         <p class="feedback">
@@ -224,16 +224,16 @@
                         </p>
                     </div>
                     <div class="block__footer">
-                        <img src="{{ asset('/') }}cybercamera/stars.png" alt="">
+                        <img src="{{ asset('/') }}product_files/cybercamera/stars.png" alt="">
                     </div>
                     <div class="reviews__block block">
                         <div class="block__header">
                             <div class="block__img">
-                                <img src="{{ asset('/') }}cybercamera/rev2.jpg" alt=""/>
+                                <img src="{{ asset('/') }}product_files/cybercamera/rev2.jpg" alt=""/>
                             </div>
                             <div class="block__text">
                                 <p class="bold">Igor</p>
-                                <img src="{{ asset('/') }}cybercamera/stars.png" alt="">
+                                <img src="{{ asset('/') }}product_files/cybercamera/stars.png" alt="">
                             </div>
                         </div>
                         <p class="feedback">
@@ -241,18 +241,18 @@
                         </p>
                     </div>
                     <div class="block__footer">
-                        <img src="{{ asset('/') }}cybercamera/stars.png" alt="">
+                        <img src="{{ asset('/') }}product_files/cybercamera/stars.png" alt="">
                     </div>
                 </div>
                 <div class="reviews__col">
                     <div class="reviews__block block">
                         <div class="block__header">
                             <div class="block__img">
-                                <img src="{{ asset('/') }}cybercamera/rev3.jpg" alt=""/>
+                                <img src="{{ asset('/') }}product_files/cybercamera/rev3.jpg" alt=""/>
                             </div>
                             <div class="block__text">
                                 <p class="bold">Miloš</p>
-                                <img src="{{ asset('/') }}cybercamera/stars.png" alt="">
+                                <img src="{{ asset('/') }}product_files/cybercamera/stars.png" alt="">
                             </div>
                         </div>
                         <p class="feedback">
@@ -261,16 +261,16 @@
                         </p>
                     </div>
                     <div class="block__footer">
-                        <img src="{{ asset('/') }}cybercamera/stars.png" alt="">
+                        <img src="{{ asset('/') }}product_files/cybercamera/stars.png" alt="">
                     </div>
                     <div class="reviews__block block">
                         <div class="block__header">
                             <div class="block__img">
-                                <img src="{{ asset('/') }}cybercamera/rev4.jpg" alt=""/>
+                                <img src="{{ asset('/') }}product_files/cybercamera/rev4.jpg" alt=""/>
                             </div>
                             <div class="block__text">
                                 <p class="bold">Tomo</p>
-                                <img src="{{ asset('/') }}cybercamera/stars.png" alt="">
+                                <img src="{{ asset('/') }}product_files/cybercamera/stars.png" alt="">
                             </div>
                         </div>
                         <p class="feedback">
@@ -279,7 +279,7 @@
                         </p>
                     </div>
                     <div class="block__footer">
-                        <img src="{{ asset('/') }}cybercamera/stars.png" alt="">
+                        <img src="{{ asset('/') }}product_files/cybercamera/stars.png" alt="">
                     </div>
                     <div class="reviews__link">
                         <a class="btn" href="#order">
@@ -292,7 +292,7 @@
     </div>
 </main>
 <script src="{{ asset('/') }}shared_files/slick.min.js"></script>
-<script src="{{ asset('/') }}cybercamera/init.js"></script>
+<script src="{{ asset('/') }}product_files/cybercamera/init.js"></script>
 @include('components.footer')
 </body>
 </html>
