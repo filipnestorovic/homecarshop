@@ -11,6 +11,7 @@
         'https://connect.facebook.net/en_US/fbevents.js');
 
     fbq('init', '1016213196582153');
+    fbq('track','LanderView');
 </script>
 <meta property="og:title" content="{{ $product->name }} | Home Car Shop">
 <meta property="og:description" content="{{ $product->name }}">
