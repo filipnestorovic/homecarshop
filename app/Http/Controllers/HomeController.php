@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Events\NewOrder;
 use App\Models\Order;
 use App\Models\Product;
 use App\Models\ProductPrice;
@@ -9,6 +10,7 @@ use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Log;
 use Illuminate\Support\Facades\Validator;
 use Propaganistas\LaravelPhone\PhoneNumber;
+use Telegram\Bot\Laravel\Facades\Telegram;
 
 class HomeController extends Controller
 {
@@ -77,8 +79,6 @@ class HomeController extends Controller
     public function order(Request $request)
     {
 
-//        dd($request->all());
-
         $rules = [
             'name' => ['required'],
             'phone' => ['required'],
@@ -119,6 +119,7 @@ class HomeController extends Controller
             ]);
 
             if($order) {
+                event(new NewOrder($order));
                 return redirect()->to('/'.$product->slug.'/thankyou')->with('data', $order);
             }
         } catch (\Exception $ex) {
