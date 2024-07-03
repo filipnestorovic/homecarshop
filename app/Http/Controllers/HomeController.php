@@ -10,7 +10,6 @@ use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Log;
 use Illuminate\Support\Facades\Validator;
 use Propaganistas\LaravelPhone\PhoneNumber;
-use Telegram\Bot\Laravel\Facades\Telegram;
 
 class HomeController extends Controller
 {
@@ -19,7 +18,6 @@ class HomeController extends Controller
 
     public function index($slug = 'cybercamera')
     {
-
         $product = Product::with('prices')->where('slug','LIKE',$slug)->first();
 
         if(!$product) {
