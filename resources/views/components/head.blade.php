@@ -1,4 +1,4 @@
-<script src="{{ asset('/') }}shared_files/jquery-3.7.1.min.js" type="text/javascript"></script>
+<script src="{{ asset('/') }}shared_files/jquery-1.12.4.min.js" type="text/javascript"></script>
 <!-- Facebook Pixel Code -->
 <script>
     !function(f,b,e,v,n,t,s)
