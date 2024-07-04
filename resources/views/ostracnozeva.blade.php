@@ -96,7 +96,7 @@
             <div class="price_item new">
                 <div class="text"><span>Cena sa 40% popusta:</span></div>
                 <div class="value">
-                    {{ $prices[1]['amount'] }}
+                    {{ $prices[1]['price'] }}
                     RSD
                 </div>
             </div>
@@ -293,7 +293,7 @@
             <div class="price_item new">
                 <div class="text"><span>Cena sa 40% popusta:</span></div>
                 <div class="value">
-                    {{ $prices[1]['amount'] }}
+                    {{ $prices[1]['price'] }}
                     RSD
                 </div>
             </div>
