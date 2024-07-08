@@ -93,10 +93,10 @@
         <h2 class="title">DRAIN CLEANER</h2>
         <img class="gif_image" src="{{ asset('/') }}product_files/draincleaner/sli-5.jpg" alt="">
         <p class="text">
-            Ne dozvolite da začepljeni odvodi zagorčavaju vaš život! Naš čistič u prahu brzo i efikasno rastvara sve vrste začepljenja, uključujući masnoće, kosu, ostatke hrane i sapun.
+            Ne dozvolite da začepljeni odvodi zagorčavaju vaš život! Naš čistač u prahu brzo i efikasno rastvara sve vrste začepljenja, uključujući masnoće, kosu, ostatke hrane i sapun.
             Samo sipajte prah u začepljeni odvod, dodajte vodu i gledajte kako začepljenje nestaje za samo nekoliko minuta!
             <br/><br/>
-            Naša formula je posebno dizajnirana da bude bezbedna za okolinu i ne sadrži štetne hemikalije. Možete biti sigurni da koristite proizvod koji je bezbedan za vas, vašu porodicu i našu planetu.
+            Formula je posebno dizajnirana da bude bezbedna za okolinu i ne sadrži štetne hemikalije. Možete biti sigurni da koristite proizvod koji je bezbedan za vas, vašu porodicu i našu planetu.
         </p>
     </section>
     <section class="benefits_section dark_theme">
@@ -111,13 +111,13 @@
             <div class="benefit_item">
                 <img src="{{ asset('/') }}product_files/draincleaner/12.jpg" alt="">
                 <div class="text_block">
-                    <p>Isprobajte naš čistič odvoda i sudopera u prahu već danas i pridružite se hiljadama zadovoljnih korisnika koji su otkrili neverovatne rezultate našeg proizvoda!</p>
+                    <p>Isprobajte naš čistač odvoda i sudopera u prahu već danas i pridružite se hiljadama zadovoljnih korisnika koji su otkrili neverovatne rezultate našeg proizvoda!</p>
                 </div>
             </div>
             <div class="benefit_item">
                 <img src="{{ asset('/') }}product_files/draincleaner/13.jpg" alt="">
                 <div class="text_block">
-                    <p>Trenutno najprodavaniji proizvod na našem tržištu!</p>
+                    <p>Jedan od najprodavanijih proizvoda na našem tržištu!</p>
                 </div>
             </div>
         </div>
@@ -134,22 +134,22 @@
             <div class="review_item">
                 <img class="photo" src="{{ asset('/') }}product_files/draincleaner/rew(1).jpg" alt="">
                 <div class="text_block">
-                    <div class="author_info">Jelena Radovanović</div>
-                    <p>"Neverovatno efikasan proizvod! Naš odvod u kuhinji je bio začepljen već nekoliko dana, ali ovaj čistič u prahu je rešio problem za svega nekoliko minuta. Toplo preporučujem!"</p>
+                    <div class="author_info">Jovana Ristić</div>
+                    <p>"Neverovatno efikasan proizvod! Naš odvod u kuhinji je bio začepljen već nekoliko dana, ali ovaj čistač u prahu je rešio problem za svega nekoliko minuta. Toplo preporučujem!"</p>
                 </div>
             </div>
             <div class="review_item">
                 <img class="photo" src="{{ asset('/') }}product_files/draincleaner/rew(2).jpg" alt="">
                 <div class="text_block">
-                    <div class="author_info">Julija Ponoš</div>
-                    <p>"Konačno sam pronašla ekološki prihvatljiv proizvod koji stvarno radi. Naša kupatilska sudopera je bila začepljena i ništa nije pomoglo, ali ovaj čistič u prahu je učinio čuda. Svaka preporuka!"</p>
+                    <div class="author_info">Aleksandra Rakić</div>
+                    <p>"Konačno sam pronašla ekološki prihvatljiv proizvod koji stvarno radi. Naš odvod u kupati je bio začepljen i ništa nije pomoglo, ali ovaj čistač u prahu je učinio čuda. Svaka preporuka!"</p>
                 </div>
             </div>
             <div class="review_item">
                 <img class="photo" src="{{ asset('/') }}product_files/draincleaner/rew(3).jpg" alt="">
                 <div class="text_block">
-                    <div class="author_info">Ana Jovanović</div>
-                    <p>"Oduševljena sam ovim čističem odvoda u prahu! Naša kada je bila začepljena kosom, ali ovaj proizvod je rešio problem za nekoliko minuta. Od sada ću ga redovno koristiti."</p>
+                    <div class="author_info">Suzana Jakovljević</div>
+                    <p>"Oduševljena sam ovim čistačem odvoda u prahu! Naša kada je bila začepljena kosom, ali ovaj proizvod je rešio problem za nekoliko minuta. Od sada ću ga redovno koristiti."</p>
                 </div>
             </div>
         </div>
