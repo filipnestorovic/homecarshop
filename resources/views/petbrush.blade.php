@@ -40,14 +40,14 @@
                 <div class="text">Redovna cena:</div>
                 <div class="value">
                     {{ $prices[1]['originalPrice'] }}
-                    {{ $prices[1]['currency'] }}
+                    RSD
                 </div>
             </div>
             <div class="price_item new">
                 <div class="text"><span>Cena sa popustom</span></div>
                 <div class="value">
                     {{ $prices[1]['price'] }}
-                    {{ $prices[1]['currency'] }}
+                    RSD
                 </div>
             </div>
         </div>
@@ -197,14 +197,14 @@
                 <div class="text">Redovna cena:</div>
                 <div class="value">
                     {{ $prices[1]['originalPrice'] }}
-                    {{ $prices[1]['currency'] }}
+                    RSD
                 </div>
             </div>
             <div class="price_item new">
                 <div class="text"><span>Cena sa popustom</span></div>
                 <div class="value">
                     {{ $prices[1]['price'] }}
-                    {{ $prices[1]['currency'] }}
+                    RSD
                 </div>
             </div>
         </div>
