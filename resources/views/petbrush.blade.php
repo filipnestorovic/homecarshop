@@ -52,9 +52,9 @@
             </div>
         </div>
         <ul>
-            <li>Održavajte i negujte svog ljubimca - Pet Brush</li>
-            <li>Revolucionarna četka za kućne ljubimce koja kombinuje praktičnost i inovaciju!</li>
-            <li>Ova punjiva četka ispušta blagu paru, osvežavajući i hidrirajući dlaku za zdraviji i sjajniji izgled</li>
+            <li>Revolucionarna četka za kućne ljubimce koja kombinuje praktičnost i inovaciju</li>
+            <li>Savršen način da održavate dlaku vašeg kućnog ljubimca sjajnom, zdravom i mekom</li>
+            <li>Recite zbogom linjanju! Ova četka ne samo da neguje vašeg kućnog ljubimca već drži i linjanje pod kontrolom</li>
         </ul>
         <a href="#order_form" class="button">Poručite sada</a>
         <div class="products_count">* Preostalo još <b>11</b>komada na akciji</div>
@@ -96,7 +96,7 @@
             Obožavaćete ovu četku, zajedno sa svojim kućnim ljubimcem!
             <br/><br/>
             Pet Brush transformiše rutinu nege vašeg ljubimca u prijatno i efikasno iskustvo.
-            Naša napredna tehnologija osigurava ne samo čišćenje, već i hidrataciju dlake, čineći je zdravijom i sjajnijom.
+            Naša napredna tehnologija osigurava ne samo čišćenje i smanjivanje linjanja, već i hidrataciju dlake, čineći je zdravijom i sjajnijom.
         </p>
     </section>
     <section class="benefits_section dark_theme">
@@ -117,7 +117,7 @@
             <div class="benefit_item">
                 <img src="{{ asset('/') }}product_files/petbrush/13.jpg" alt="">
                 <div class="text_block">
-                    <p>Nežno čišćenje: Nežno uklanja zamršene dlake i prljavštinu, pružajući vašem ljubimcu ugodno četkanje.</p>
+                    <p>Nežno četkanje! Nežno uklanja zamršenu dlaku kao i višak poddlake, smanjujući linjanje ljubimca.</p>
                 </div>
             </div>
         </div>
@@ -142,14 +142,14 @@
                 <img class="photo" src="{{ asset('/') }}product_files/petbrush/rew(2).jpg" alt="">
                 <div class="text_block">
                     <div class="author_info">Natalija Đorić</div>
-                    <p>"Moja mačka obožava četkanje sada, iako ranije nisam mogla da je stignem. Četka je lagana i nežna, a para čini čuda."</p>
+                    <p>"Moja mačka sada obožava četkanje, para joj prija iako ne voli da se kupa. Četka je lagana i laka za korišćenje. "</p>
                 </div>
             </div>
             <div class="review_item">
                 <img class="photo" src="{{ asset('/') }}product_files/petbrush/rew(3).jpg" alt="">
                 <div class="text_block">
                     <div class="author_info">Ivan Ristić</div>
-                    <p>"Moj pas obožava četkanje sa Pet Brush-om. Para je zaista "game changer", mnogo više dlaka pokupim četkanjem."</p>
+                    <p>"Ova četka fantastično skuplja dlaku, dok češljam svog psa dlaka ne leti svuda kao kad koristim druge četke."</p>
                 </div>
             </div>
         </div>
