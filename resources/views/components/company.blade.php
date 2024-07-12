@@ -12,7 +12,7 @@
         <span class="close">&times;</span>
         <div>
             <h1>Opšti uslovi</h1>
-            <p>Prodaja robe putem naše online prodavnice <b>homecarshop.com</b> obavlja se u okviru registrovane delatnosti privrednog društva <b>BRAAVOS DOO BEOGRAD (PALILULA), Patrisa Lumumbe 57, 11060 Zvezdara, Beograd, PIB: 114398542, MB: 22017861</b></p>
+            <p>Prodaja robe putem naše online prodavnice <b>homecarshop.com</b> obavlja se u okviru registrovane delatnosti privrednog društva <b>BRAAVOS DOO BEOGRAD (PALILULA), Patrisa Lumumbe 57, 11060 Palilula, Beograd, PIB: 114398542, MB: 22017861</b></p>
             <p>Roba koja se prodaje preko naše online prodavnice poseduje svojstva potrebna za redovnu upotrebu te vrste robe u skladu sa njenom namenom koja je definisana u deklaraciji.</p>
             <p>Saobraznost robe ugovoru ISKLJUČIVO utvrđuje prema svojstvima i nameni robe kako je to definisano u deklaraciji.</p>
             <p>Prodajna cena robe je naznačena uz svaki artikal, a mogućnost kupovine robe uz posebne cenovne pogodnosti ili uz posebne prodajne podsticaje (akcijska prodaja), obavlja se u skladu sa uslovima koji su objavljeni na <b>homecarshop.com</b></p>
