@@ -70,13 +70,13 @@
                 <div class="old-cost">
                     Redovna cena:
                     <strong>
-                        <span class="price_land_s2">{{ $prices[1]['originalPrice'] }}</span> <span class="price_land_curr">{{ $prices[1]['currency'] }}</span>
+                        <span class="price_land_s2">{{ $prices[1]['originalPrice'] }}</span> <span class="price_land_curr">RSD</span>
                     </strong>
                 </div>
                 <div class="new-cost">
                     Cena na akciji:
                     <strong>
-                        <span class="price_land_s1">{{ $prices[1]['price'] }}</span> <span class="price_land_curr">{{ $prices[1]['currency'] }}</span>
+                        <span class="price_land_s1">{{ $prices[1]['price'] }}</span> <span class="price_land_curr">RSD</span>
                     </strong>
                 </div>
             </div>
@@ -295,13 +295,13 @@
                 <div class="old-cost">
                     Redovna cena:
                     <strong>
-                        <span class="price_land_s2">{{ $prices[1]['originalPrice'] }}</span> <span class="price_land_curr">{{ $prices[1]['currency'] }}</span>
+                        <span class="price_land_s2">{{ $prices[1]['originalPrice'] }}</span> <span class="price_land_curr">RSD</span>
                     </strong>
                 </div>
                 <div class="new-cost">
                     Cena na akciji:
                     <strong>
-                        <span class="price_land_s1">{{ $prices[1]['price'] }}</span> <span class="price_land_curr">{{ $prices[1]['currency'] }}</span>
+                        <span class="price_land_s1">{{ $prices[1]['price'] }}</span> <span class="price_land_curr">RSD</span>
                     </strong>
                 </div>
             </div>
