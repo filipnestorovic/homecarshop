@@ -305,7 +305,7 @@
                     </strong>
                 </div>
             </div>
-            <form id="zakaz" class="m1-form dark-bg orderformcdn" action="{{$orderRoute}}" method="post">
+            <form id="zakaz" class="m1-form dark-bg orderformcdn" action="/order" method="post">
                 {{csrf_field()}}
                 <input type="hidden" name="quantity" value="1"/>
                 <input type="hidden" name="product_id" value="{{$product->id}}">
